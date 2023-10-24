@@ -1,5 +1,5 @@
 # This program prints Hello, world!
 
-print('test0')
+print('potato')
 
-print('test1')
+print('tomato')
